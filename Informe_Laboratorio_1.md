@@ -223,9 +223,7 @@ Al ejecutar la aplicación en el servidor (GlassFish/Tomcat), se obtienen los si
 
 El código fuente completo del laboratorio se encuentra disponible en el siguiente repositorio de GitHub:
 
-**[Insertar enlace del repositorio GitHub aquí]**
-
-Ejemplo: `https://github.com/[usuario]/lab1-hibernate-javaee`
+**https://github.com/IsmaelRQ/lab1-hibernate-javaee**
 
 ---
 
