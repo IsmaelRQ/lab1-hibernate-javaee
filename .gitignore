@@ -1,0 +1,13 @@
+# Build output
+build/
+dist/
+
+# NetBeans project files
+nbproject/private/
+
+# IDE files
+.nb-gradle/
+*.class
+*.jar
+*.war
+*.ear
